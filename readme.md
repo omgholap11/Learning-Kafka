@@ -1,4 +1,4 @@
-# 🏏 Kafka IPL Demo (Official Apache Kafka + Node.js, KRaft Mode)
+# Kafka  Demo
 
 End-to-end guide to run **Apache Kafka (official Docker image)** in **KRaft (no ZooKeeper)** and a **Node.js (KafkaJS)** demo that streams **two IPL matches in parallel** with three consumer groups (Scoreboard, Commentary, Analytics).
 
